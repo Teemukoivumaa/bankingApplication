@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Banking Application</string>
+    <string name="title_login">Login</string>
+    <string name="title_dashboard">Investments</string>
+    <string name="title_notifications">Settings</string>
+    <string name="title_mainView">Main view</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="title_activity_notifications">Notifications</string>
+    <string name="one">1</string>
+
+    <string-array name="currencies">
+        <item>EUR</item>
+        <item>USD</item>
+        <item>GBP</item>
+        <item>SEK</item>
+        <item>RUB</item>
+        <item>AUD</item>
+        <item>CAD</item>
+        <item>HKD</item>
+    </string-array>
+    <string name="title_activity_info">Info</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="title_activity_account">Account</string>
+    <string name="title_home">Home</string>
+</resources>
